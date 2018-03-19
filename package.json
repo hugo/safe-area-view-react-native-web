@@ -1,0 +1,21 @@
+{
+  "name": "safeareaview",
+  "version": "1.0.0",
+  "description": "Demonstrate iOS Safari safa-area-inset-{top,right,bottom,left}",
+  "main": "dist/index.html",
+  "author": "Hugo Jobling <hello@thisishugo.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel --port 3000 src/index.html"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-native-web": "^0.5.3"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.5.3",
+    "parcel-bundler": "^1.6.2"
+  }
+}
