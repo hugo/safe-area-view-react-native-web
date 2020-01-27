@@ -839,9 +839,9 @@ babel-plugin-dynamic-import-node@^2.3.0:
   dependencies:
     object.assign "^4.1.0"
 
-babel-plugin-react-native-web@^0.5.3:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.5.3.tgz#72ce31901324e7e39b74d51af6cc25a2dd3d151a"
+babel-plugin-react-native-web@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.12.0.tgz#2c99f25b90b8ab896539ffa024776b9857128e97"
 
 babel-runtime@^6.11.6, babel-runtime@^6.26.0:
   version "6.26.0"
